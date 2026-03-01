@@ -1,7 +1,7 @@
 # config.py
 
 #通义千问API key
-DASHSCOPE_API_KEY = st.secrets["API_KEY"]
+DASHSCOPE_API_KEY = "sk-71d259628cb34d6684789e5e312c0460"
 
 # Embedding模型配置
 EMBEDDING_MODEL = "text-embedding-v1"
