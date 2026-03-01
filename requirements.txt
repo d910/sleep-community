@@ -1,4 +1,9 @@
 streamlit
 dashscope
 chromadb
-langchain
+langchain==1.2.10
+langchain-community
+langchain-text-splitters
+langchain-core
+pypdf
+pydantic
